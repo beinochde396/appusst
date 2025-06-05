@@ -31,11 +31,11 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "appidx"         # 用户名
-UUID = "88c14aa7-7cf2-40fc-9e4a-0f51"                     # UUID，留空则自动生成
-PORT = 25604                   # Vmess端口，留空或0则自动生成
-DOMAIN = "appidx.ioooi.filegear-sg.me"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiZDllMGM0MGNjZDY1MzVmZWM5NGZjNDY3MjA1MzRhZDUiLCJ0IjoiYjhkZDI1ODAtNWY3MS00MzQzLWExZTEtZjZlYWQ2ZjAwYjZhIiwicyI6Ik4yVXdNekkxTlRBdE9EaGlZaTAwWVRNM0xXSmlOVEV0TkdZeE5EUXpNR0U0T1dGaCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+USER_NAME = "appidxa"         # 用户名
+UUID = "16dcbe2b-968d-48f2-a639-73ed63685f75"                     # UUID，留空则自动生成
+PORT = 25606                   # Vmess端口，留空或0则自动生成
+DOMAIN = "appidxa.oooooooooo.ga"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiZDllMGM0MGNjZDY1MzVmZWM5NGZjNDY3MjA1MzRhZDUiLCJ0IjoiMzg0ZjZiNGItMWQxYy00MzdlLWI2Y2UtOTQyNjAzNGRhZTUzIiwicyI6Ik1XTmtNVFF3WkdVdE1UWXdNeTAwT0RnM0xXSTRORGd0TVdReFlUZ3pNRFF4TkRVNSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
